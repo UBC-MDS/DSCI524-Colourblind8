@@ -229,7 +229,7 @@ class Colourblind8:
 		"""
 		# Checks colour palette
 		if palette == 'deutera':
-			colours = self.s
+			colours = self.deutera_colours
 		elif palette == 'trita':
 			colours = self.trita_colours
 		elif palette == 'prota':
